@@ -1,4 +1,4 @@
-# gcphone_esxfix
+#### gcphone_esxfix ####
 This is a copy of gcphone made to work with ESX and Calls are working properly.
 
 Requirements - Essentials & ESX & ESX_voice
@@ -10,7 +10,7 @@ Place gcphone_esfix into your resources folder (Rename it to gcphone, or leave i
 In your server.cfg file:
 start gcphone (Or whatever you named it).
 
-HOW TO USE THIS PHONE
+#### HOW TO USE THIS PHONE ####
 
 To use this phone is very simple. Keybind by default is F1 (You cannot have esx_phone or esx_phone3/esx_alphone running with this script or it will break.
 
