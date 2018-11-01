@@ -10,6 +10,9 @@ Place gcphone_esfix into your resources folder (Rename it to gcphone, or leave i
 In your server.cfg file:
 start gcphone (Or whatever you named it).
 
+
+
+
 #### HOW TO USE THIS PHONE ####
 
 To use this phone is very simple. Keybind by default is F1 (You cannot have esx_phone or esx_phone3/esx_alphone running with this script or it will break.
@@ -21,7 +24,11 @@ If you want to set a waypoint to GPS Coordinates, Use the UP arrow to select the
 MANY MORE FEATURES TO COME, AND MANY MORE DETAILS AND EXPLANATIONS ON HOW TO USE THIS WILL BE COMING AS SOON AS I HAVE FREE TIME..
 
 
+
+
+
 #### UPDATES ####
+
 10/31/2018
 Accepted PR's to translate phone.
 Found More translations & updated accordingly.
