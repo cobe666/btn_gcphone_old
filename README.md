@@ -34,5 +34,7 @@ Accepted PR's to translate phone.
 Found More translations & updated accordingly.
 
 Added: Text Police
+
 Added: Text Ambulance/EMS
+
 Added: Text Mechanic
