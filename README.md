@@ -40,7 +40,9 @@ Added: Text Ambulance/EMS
 Added: Text Mechanic
 
 
+![](https://i.imgur.com/9M9bGFb.jpg)
+![](https://i.imgur.com/RdvE1Nx.jpg)
+![](https://i.imgur.com/T1Bl5PK.jpg)
 
-https://i.imgur.com/9M9bGFb.jpg
-https://i.imgur.com/RdvE1Nx.jpg
-https://i.imgur.com/T1Bl5PK.jpg
+
+
