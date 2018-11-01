@@ -1,4 +1,4 @@
-#### gcphone_esxfix ####
+#### GCPHONE_ESXFIX v1.1 ####
 This is a copy of gcphone made to work with ESX and Calls are working properly.
 
 Requirements - Essentials & ESX & ESX_voice
