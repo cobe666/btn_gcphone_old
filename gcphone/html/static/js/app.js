@@ -2492,7 +2492,7 @@ webpackJsonp([0], [, , , , , , function(t, e, n) {
                 this.disableList = !0, h.a.CreateModal({
                     choix: [{
                         id: 1,
-                        title: "Modifier le contact",
+                        title: "Modify Contact",
                         icons: "fa-circle-o",
                         color: "orange"
                     }, {
@@ -2955,7 +2955,7 @@ webpackJsonp([0], [, , , , , , function(t, e, n) {
                 var t = this;
                 !0 !== this.ignoreControls && -1 === this.selectMessage && (this.ignoreControls = !0, h.a.CreateModal({
                     choix: [{
-                        title: "Envoyer Coord GPS",
+                        title: "Send Coord GPS",
                         icons: "fa-location-arrow"
                     }, {
                         title: "Cancel",
