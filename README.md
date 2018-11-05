@@ -4,10 +4,16 @@ ORIGINAL AUTHOR - https://github.com/N3MTV/gcphone
 Rewrite/English Translation/Modified for ESX - https://github.com/BTNGaming/gcphone_esxfix
 
 #### REQUIREMENTS ####
+
 Essentials - https://forum.fivem.net/t/release-essentialmode-base/3665
+
 ESX - https://github.com/ESX-Org/es_extended
+
 ESX_voice - https://github.com/ESX-Org/esx_voice
+
 Mysql-Async 2.xx (3.xx update coming soon) - https://github.com/brouznouf/fivem-mysql-async/tree/2.0
+
+GCPhone_Addons (FOR GPS TO WORK PROPERLY ACROSS THE SERVER) - https://github.com/N3MTV/gcphone
 
 Install the .sql file into your database
 
