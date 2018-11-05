@@ -50,23 +50,16 @@
   },
 
 
-  "serviceCall": [
+"serviceCall": [
     {
       "display": "Police",
-      "icon": "/html/static/img/icons_app/bank.png",
+      "backgroundColor": "blue",
       "subMenu": [
         {
-          "title": "Send a Message",
+          "title": "Send Message",
           "eventName": "esx_addons_gcphone:call",
           "type": {
             "number": "police"
-          }
-        },
-        {
-          "title": "Call 911",
-          "eventName": "gcphone:autoCallNumber",
-          "type": {
-            "number": "911"
           }
         }
       ]
@@ -80,6 +73,19 @@
           "eventName": "esx_addons_gcphone:call",
           "type": {
             "number": "ambulance"
+          }
+        }
+      ]
+    },
+    {
+      "display": "Mechanic",
+      "backgroundColor": "green",
+      "subMenu": [
+        {
+          "title": "Send a Message",
+          "eventName": "esx_addons_gcphone:call",
+          "type": {
+            "number": "mecano"
           }
         }
       ]
@@ -107,7 +113,7 @@
       "inHomePage": true
     },
     {
-      "name": "Parameters",
+      "name": "Settings",
       "icons": "/html/static/img/icons_app/settings.png",
       "routeName": "parametre",
       "inHomePage": true

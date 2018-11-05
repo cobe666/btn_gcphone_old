@@ -2955,7 +2955,7 @@ webpackJsonp([0], [, , , , , , function(t, e, n) {
                 var t = this;
                 !0 !== this.ignoreControls && -1 === this.selectMessage && (this.ignoreControls = !0, h.a.CreateModal({
                     choix: [{
-                        title: "Send Coord GPS",
+                        title: "Send GPS Coordinates",
                         icons: "fa-location-arrow"
                     }, {
                         title: "Cancel",
