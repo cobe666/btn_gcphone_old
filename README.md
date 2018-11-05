@@ -1,14 +1,20 @@
 #### GCPHONE_ESXFIX v1.1 ####
 This is a copy of gcphone made to work with ESX and Calls are working properly.
+ORIGINAL AUTHOR - https://github.com/N3MTV/gcphone
+Rewrite/English Translation/Modified for ESX - https://github.com/BTNGaming/gcphone_esxfix
 
-Requirements - Essentials & ESX & ESX_voice
+#### REQUIREMENTS ####
+Essentials - https://forum.fivem.net/t/release-essentialmode-base/3665
+ESX - https://github.com/ESX-Org/es_extended
+ESX_voice - https://github.com/ESX-Org/esx_voice
+Mysql-Async 2.xx (3.xx update coming soon) - https://github.com/brouznouf/fivem-mysql-async/tree/2.0
 
 Install the .sql file into your database
 
-Place gcphone_esfix into your resources folder (Rename it to gcphone, or leave it.. Your choice)
+Place gcphone_esxfix into your resources folder (Rename it to gcphone, or leave it.. Your choice)
 
 In your server.cfg file:
-start gcphone (Or whatever you named it).
+start gcphone_esxfix (Or whatever you named it).
 
 
 
@@ -21,24 +27,22 @@ When you send a text you can view it in your messages. While in your messages, i
 
 If you want to set a waypoint to GPS Coordinates, Use the UP arrow to select the GPS Text Message and hit Enter to Set Waypoint.
 
+While looking at a text message, if you press your RIGHT ARROW, You can send GPS coords to ANYONE you are texting, Not just Emergency contacts.
+
+If you want to see the coordinates location on your map, In a text message with coordinates, press the up arrow to highlight the text message and press ENTER, and click on "SEND COORDS TO GPS"
+
 MANY MORE FEATURES TO COME, AND MANY MORE DETAILS AND EXPLANATIONS ON HOW TO USE THIS WILL BE COMING AS SOON AS I HAVE FREE TIME..
 
 
 
 
 
-#### UPDATES ####
-
-10/31/2018
-Accepted PR's to translate phone.
-Found More translations & updated accordingly.
-
-Added: Text Police
-
-Added: Text Ambulance/EMS
-
-Added: Text Mechanic
-
+#### FUTURE UPDATES ####
+~ Bank Script with Balance/Bank Transfers
+~ Customizable Phone Numbers
+~ More Contacts in Favorites (Businesses, Teqila-la, Car Dealership, Ammunations and more)
+~ Customizable Text Messages as far as Colors, backgrounds per text message, Custom Icons per  contact.
+~ If you have suggestions feel free to post them here, or contact me on Discord @ https://discord.gg/uMXwB64
 
 ![](https://i.imgur.com/9M9bGFb.jpg)
 ![](https://i.imgur.com/RdvE1Nx.jpg)
