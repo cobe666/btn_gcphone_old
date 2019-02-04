@@ -11,7 +11,7 @@ ESX - https://github.com/ESX-Org/es_extended
 
 ESX_voice - https://github.com/ESX-Org/esx_voice
 
-Mysql-Async 2.xx (3.xx update coming soon) - https://github.com/brouznouf/fivem-mysql-async/tree/2.0
+Mysql-Async 3.xx - NOW WORKING FOR Mysql-Async 3.xx https://github.com/brouznouf/fivem-mysql-async/archive/3.0.8.zip
 
 GCPhone_Addons (FOR GPS TO WORK PROPERLY ACROSS THE SERVER) - https://github.com/N3MTV/gcphone
 
