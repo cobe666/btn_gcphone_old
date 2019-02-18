@@ -2962,7 +2962,7 @@ webpackJsonp([0], [, , , , , , function(t, e, n) {
                         icons: "fa-undo"
                     }]
                 }).then(function(e) {
-                    "Envoyer Coord GPS" === e.title && t.sendMessage({
+                    "Send GPS Coordinates" === e.title && t.sendMessage({
                         phoneNumber: t.phoneNumber,
                         message: "%pos%"
                     }), t.ignoreControls = !1
